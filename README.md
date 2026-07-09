@@ -1,8 +1,11 @@
 # stpimport
 Simplified .step/.stp importer for Blender 5, created by Claude
 
-Version: 0.1.0
+Version: 0.1
 Addon file: `stpimport_v01.py`
+
+Version: 0.2
+Added support for .iges
 
 ---
 
