@@ -7,6 +7,9 @@ Addon file: `stpimport_v01.py`
 Version: 0.2
 Added support for .iges
 
+Version: 0.3
+Added support for exporting .STEP/.IGES
+
 ---
 
 ## 1. What This Is
